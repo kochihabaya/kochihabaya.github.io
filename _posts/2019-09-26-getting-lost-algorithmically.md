@@ -8,7 +8,7 @@ So I came up with a set of rules that would result in me getting lost. Whenever 
 
 Firstly, suspend all awe you may have and imagine that this is me walking.
 
-![A pink star with arrows pointing to represent paths](walkin.png)
+![A pink star with arrows pointing to represent paths](/assets/walkin.PNG)
 
 The arrows are the possible paths I can walk down and the numbers represent the amount of times I have taken that path in the past. So the path with "100" means I have walked down that path 100 times before. Using the rule I previously mentioned I am going to go down the paths 10-100-10 ten times. This is undesireable for 2 reasons. FIrst, I would prefer not to look like an insane person. Secondly, I want to explore new places but the rule just makes me travel a path I have already been to 100 times. So the rule is not ideal.
 
