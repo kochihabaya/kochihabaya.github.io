@@ -1,2 +1,2 @@
 theme: jekyll-theme-slate
-permalink: /:year/:slug
+permalink: /:slug
