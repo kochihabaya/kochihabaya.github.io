@@ -2,6 +2,8 @@
 
 Hello y'all
 
+List of posts:
+
 <ul>
   {% for post in site.posts %}
     <li>
