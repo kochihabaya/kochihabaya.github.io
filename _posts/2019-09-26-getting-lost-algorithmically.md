@@ -2,7 +2,7 @@
 title: Getting Lost, Algorithmically
 ---
 
-# {{ post.title }}
+<h1>{{ post.title }}</h1>
 
 I recently noticed that when I go for a walk, I always end up going down the same routes. With a desire for finding a new and potentially exciting area to explore I decided to get lost and explore new places. But 'getting lost' was a little bit too vague for my liking. How could I achieve it?
 
